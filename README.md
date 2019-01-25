@@ -16,3 +16,6 @@ To try and not be rubbish at Git and understand these computer thingies
 Thunderbirds are go 
 
 ## How to Contribute
+
+this is to show how we can leave things in different parts of the git repository 
+this is the last bit of info I shall be adding right now 
