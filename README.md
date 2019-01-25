@@ -19,3 +19,5 @@ Thunderbirds are go
 
 this is to show how we can leave things in different parts of the git repository 
 this is the last bit of info I shall be adding right now 
+
+2019 Git training 
