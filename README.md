@@ -5,6 +5,7 @@ This repository is for me to experiment with Git and GitHub work
 ## Introduction
 
 Sample website with plenty of files for demos
+Some more information needs to be added 
 
 ## Purpose 
 
