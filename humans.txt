@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harri New @harri fab@me.com
 
 # THANKS
 
