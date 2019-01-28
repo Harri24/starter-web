@@ -13,4 +13,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+	i think i should add something technical here 
     jQuery, Modernizr
