@@ -20,4 +20,4 @@ Thunderbirds are go
 
 Please fork the repository and then issue Pull request for review  
 
-2019 Git training 
+2019 all rights reserved  
