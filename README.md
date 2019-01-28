@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for me to experiment with Git and GitHub work
-adding information for this example
+adding information for this example, more changes from my feature branch as well. 
 
 ## Introduction
 
