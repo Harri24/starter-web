@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for me to experiment with Git and GitHub work
+adding information for this example
 
 ## Introduction
 
@@ -17,6 +18,6 @@ Thunderbirds are go
 
 ## How to Contribute
 
-Please fork the repository and then issue Pull request for review 
+Please fork the repository and then issue Pull request for review  
 
 2019 Git training 
